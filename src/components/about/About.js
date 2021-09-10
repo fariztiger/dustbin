@@ -62,7 +62,7 @@ enjoy a fast block time of ~5 seconds and make use of the vibrant ecosystem tool
 
                     <span className="defiOverviewTitle">How do I get listed on PolybeesWatch?</span><br /><div className="defiOverviewBr"></div>
                     <span className="defiOverviewContent">
-                        If you are a DeFi project operating on Binance Smart Chain, please fill out this <span className="formLinkOnAbout" onClick={() => window.open("https://polybeesform.netlify.app", "_blank")}>form</span> to go
+                        If you are a DeFi project operating on Binance Smart Chain, please fill out this <span className="formLinkOnAbout" onClick={() => window.open(".\src\components\form\form.html", "_blank")}>form</span> to go
 through our initial screening process. PolybeesWatch will reach out to projects individually after assessing each application. For any questions or inquiries,
 please contact our bot at https://t.me/polybeesbot
                     </span><br /><br /><br />

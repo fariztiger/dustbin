@@ -26,7 +26,7 @@ const Apply = observer(() => {
     const [defiName, setDefiName] = useState("");
     // const [invalidNameFlag, setInvalidNameFlag] = useState(false);
 
-    // const defistationApiUrl = "https://api.defistation.io";
+    // const defistationApiUrl = "https://api.polybees.network";
 
     // async function checkValidDefiName() {
     //     // console.log("checkValidDefiName 함수 시작");
