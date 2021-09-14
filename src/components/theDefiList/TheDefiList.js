@@ -552,7 +552,7 @@ const TheDefiList = observer(() => {
                 </div>
                 
                 
-                <div className="applyBtn" onClick={() => window.open(".\src\components\form\form.html", "_blank")}>
+                <div className="applyBtn" onClick={() => window.open(".\form.html", "_blank")}>
                     <ul className="applyBtnUl">
                         <li>
                             <p className="applyBtnTitle">Apply to be listed</p><br />
