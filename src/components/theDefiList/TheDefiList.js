@@ -552,7 +552,11 @@ const TheDefiList = observer(() => {
                 </div>
                 
                 
+<<<<<<< HEAD
                 <div className="applyBtn" onClick={() => window.open(".\src\components\form\form.html", "_blank")}>
+=======
+                <div className="applyBtn" onClick={() => window.open("t.me/polybeesjsbot", "_blank")}>
+>>>>>>> 8a9157d2f08d3b26823f8af8324b379690e5bda9
                     <ul className="applyBtnUl">
                         <li>
                             <p className="applyBtnTitle">Apply to be listed</p><br />
