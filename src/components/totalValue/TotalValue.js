@@ -150,7 +150,7 @@ const TotalValue = observer((props) => {
     // 5) 360px ~ 413px: 290px, 88%
     // 6) 1px ~ 359px: 270px, 88%
 
-    // const defistationApiUrl = "https://api.defistation.io";
+    // const defistationApiUrl = "https://api.polybees.network";
 
     const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     function getMonthAndDay(date) {
@@ -1359,7 +1359,7 @@ const TotalValue = observer((props) => {
                     <div className="tvlLink0" style={props.defiName == "DeFi" ? undefined : { display: "none" } }>
                         <TvlLink icon={bscLogo} title="Binance Smart Chain" subTitle="EVM compatible PoS" goPage="https://www.binance.org/en/smartChain" />
                         <TvlLink icon={bscScanLogo} title="BscScan" subTitle="BSC Explorer" goPage="https://bscscan.com/" />
-                        <TvlLink icon={exchangeLogo} title="Exchange" subTitle="Crypto asset exchange" goPage="https://www.binance.com/en?ref=39076268" />
+                        <TvlLink icon={exchangeLogo} title="Exchange" subTitle="Crypto asset exchange" goPage="https://www.binance.com/en?ref=20380652" />
                         <TvlLink icon={cosmostationLogo} title="PolybeesBSC" subTitle="Access DeFi" goPage="https://polybeespresale.netlify.app/" />
                     </div>
                     <div className="tvlLink" style={props.defiName == "DeFi" ? { display: "none" } : undefined }>

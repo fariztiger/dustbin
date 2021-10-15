@@ -2,12 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\src",
     "\\src\\components",
     "\\src\\components\\about",
     "\\src\\components\\footer",
-    "\\src\\components\\topBar",
-    "\\src\\components\\totalValue"
+    "\\src\\components\\form",
+    "\\src\\components\\theDefiList"
   ],
-  "SelectedNode": "\\public\\index.html",
+  "SelectedNode": "\\src\\components\\about\\About.js",
   "PreviewInSolutionExplorer": false
 }

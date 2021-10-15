@@ -86,7 +86,7 @@ const TopBar = observer((props) => {
                             </ul>
                         </li>
                         <li>
-                            <ul className="sideMenuIconLabel" onClick={() => openWindow("https://www.binance.com/en?ref=39076268")}>
+                            <ul className="sideMenuIconLabel" onClick={() => openWindow("https://www.binance.com/en?ref=20380652")}>
                                 <li><img src={exchangeLogo} style={{"width":"24px"}} /></li>
                                 <li><span>Exchange</span></li>
                             </ul>
